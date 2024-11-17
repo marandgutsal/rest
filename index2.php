@@ -1,4 +1,3 @@
-<!--<h1>ugjtigtu . . . . . .. rigtur</h1>-->
 
 <?php
 /*
@@ -6,6 +5,9 @@ include "config.php";
 include "utils.php";
 
 $dbConn =  connect($db);*/
+
+/*<h1>ugjtigtu . . . . . .. rigtur</h1>*/
+
 
 if ($_SERVER['REQUEST_METHOD'] == 'GET')
 {
