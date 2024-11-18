@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
 {
     $vbvb = "[{'id':'1','title':'5','status':'draft','content':'1','user_id':'2'},{'id':'2','title':'52q','status':'draft','content':'1qq','user_id':'2'},{'id':'3','title':'m2q','status':'draft','content':'zzq','user_id':'2'}]";    
     echo json_encode( $vbvb );
-    //exit();
+    exit();
 }
 
 /*
